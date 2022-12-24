@@ -7,4 +7,9 @@ public class HomePage {
     //nav menu
 
     //new set up
+
+    //more new features
+
+    // logo
+
 }
